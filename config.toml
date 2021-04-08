@@ -5,7 +5,7 @@ enableRobotsTXT = true
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
 theme = ["docsy"]
-publishDir = “docs”
+publishDir = "docs"
 
 # Will give values to .Lastmod etc.
 enableGitInfo = true
